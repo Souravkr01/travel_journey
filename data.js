@@ -251,5 +251,18 @@ export default [
   dates: "18 Dec, 2023 - 25 Dec, 2023",
   text: "The Northern Lights, or Aurora Borealis, dazzle the skies above Iceland with ethereal green and purple waves—one of the most magical natural spectacles on Earth."
 },
+{
+  id: 22,
+  img: {
+    src: "https://images.unsplash.com/photo-1561134643-668f9057cce4?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    alt: "Banff National Park crystal blue lake"
+  },
+  title: "Banff National Park",
+  country: "Canada",
+  googleMapsLink: "https://goo.gl/maps/EVxwBzPiY4UrpmB48",
+  dates: "02 Jun, 2024 - 09 Jun, 2024",
+  text: "Nestled in the Canadian Rockies, Banff is home to glacier-fed lakes, dramatic peaks, and untamed wilderness that’ll seduce your soul like I do your heart."
+}
+
 
 ]
