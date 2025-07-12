@@ -1,19 +1,32 @@
-# Getting Started
-Install the dependencies and run the project
-```
+# 🌍 My Travel Journey
+
+A visually appealing and responsive **React.js** application that showcases popular travel destinations with Google Maps integration and detailed destination info. Built to demonstrate core React fundamentals with clean component-based architecture.
+
+## 🚀 Live Demo  
+🔗 [Check it out here](https://travel-with-myjourney.netlify.app)
+
+---
+
+## 🛠️ Tech Stack
+- ⚛️ React JS (Vite)
+- 💅 CSS3
+- 🧠 JavaScript (ES6+)
+- 📍 Google Maps Link Integration
+- 🌐 Netlify for deployment
+
+---
+
+## 📸 Features
+- Component-based architecture
+- Dynamic rendering with props
+- Interactive UI with responsive layout
+- Real images and location-based content
+- External links to Google Maps
+
+---
+
+## 📦 Getting Started
+
+```bash
 npm install
 npm start
-```
-
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
